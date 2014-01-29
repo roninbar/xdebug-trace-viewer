@@ -9,14 +9,14 @@ Global
 		Manager = AnkhSVN - Subversion Support for Visual Studio
 	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|x86 = Debug|x86
-		Release|x86 = Release|x86
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0442135A-DFDE-4042-B128-EC0B6619E56C}.Debug|x86.ActiveCfg = Debug|x86
-		{0442135A-DFDE-4042-B128-EC0B6619E56C}.Debug|x86.Build.0 = Debug|x86
-		{0442135A-DFDE-4042-B128-EC0B6619E56C}.Release|x86.ActiveCfg = Release|x86
-		{0442135A-DFDE-4042-B128-EC0B6619E56C}.Release|x86.Build.0 = Release|x86
+		{0442135A-DFDE-4042-B128-EC0B6619E56C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0442135A-DFDE-4042-B128-EC0B6619E56C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0442135A-DFDE-4042-B128-EC0B6619E56C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0442135A-DFDE-4042-B128-EC0B6619E56C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
